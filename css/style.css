@@ -36,7 +36,7 @@ body a{
 	display: block;
 }
 .header_top{
-	background-color: #E2B61A;
+	background-color: #666666;
 }
 .headertop_nav {
 	float: left;
@@ -720,7 +720,7 @@ ul#general-info{
 }
 /*** Footer ***/
 .footer {
-	background-color: #E2B61A;
+	background-color: #666666;
 	padding-top: 3em;
 	padding-right: 0;
 	padding-bottom: 2em;
@@ -764,11 +764,11 @@ ul#general-info{
 	padding-bottom: 2em;
 	border-bottom-width: 1px;
 	border-bottom-style: dotted;
-	border-bottom-color: #000000;
+	border-bottom-color: #FFCC00;
 }
 .footer_grid p{
 	font-size: 0.95em;
-	color: #000000;
+	color: #FFFFFF;
 	line-height: 1.8em;
 }
 .footer-list ul{
@@ -796,7 +796,7 @@ span.yellow a:hover {
 	margin-bottom:2em;
 }
 .company_address p {
-	color: #000000;
+	color: #FFFFFF;
 	font-size: 0.95em;
 	padding: 2px 0;
 }
