@@ -38,7 +38,7 @@ body a{
 .header_top{
 	background-color: #E2B61A;
 }
-.headertop_nav{
+.headertop_nav {
 	float: left;
 	padding-top: 8px;
 	padding-right: 0;
@@ -79,8 +79,8 @@ body a{
 	display: block;
 }
 /* Login Button */
-#loginButton { 
-    display:inline-block;  
+#loginButton {
+    display:inline-block;
     position:relative;
     z-index:30;
     cursor:pointer;
@@ -128,7 +128,7 @@ text-decoration: none;
 /* Login Form */
 #loginForm {
 	float:right;
-    width:280px; 
+    width:280px;
     margin-top:15px;
     padding:20px;
     background:#FFF;
@@ -163,7 +163,7 @@ text-decoration: none;
 	width: 25px;
 	height: 32px;
 	outline: none;
-}	
+}
 .header-top-right{
 	float:right;
 }
@@ -694,7 +694,7 @@ ul#general-info{
 	color:#F94B4B
 }
 .ocarousel span a img{
-    padding-top:5px;	
+    padding-top:5px;
 }
 .ocarousel_window {
    overflow: hidden;
@@ -1286,7 +1286,7 @@ ul.blog-list1 li a:hover {
 }
 ul.recent-list{
 	padding:0;
-	list-style:none; 
+	list-style:none;
 	margin-top:4em;
 }
 ul.recent-list li a {
@@ -1495,14 +1495,14 @@ ul.comment-list .desc {
 
 /*** responsice layout ***/
 @media all and (max-width: 1024px) {
-	
-   
+
+
 }
 @media all and (max-width: 800px) {
   .logo {
      float:none;
      padding:15px 0 30px;
-     text-align:center;	
+     text-align:center;
   }
   .col-md-4 {
 	margin-bottom: 3em;
